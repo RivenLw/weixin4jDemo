@@ -22,8 +22,8 @@ public class MenuDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		ViewButton viewButton = new ViewButton("百度", "https://www.baidu.com/");
-		ViewButton sub_viewButton = new ViewButton("比利比利", "https://www.bilibili.com/");
+		ViewButton viewButton = new ViewButton("鐧惧害", "https://www.baidu.com/");
+		ViewButton sub_viewButton = new ViewButton("姣斿埄姣斿埄", "https://www.bilibili.com/");
 		
 		List<SingleButton> singleButtons = new ArrayList<SingleButton>();
 		singleButtons.add(sub_viewButton);
